@@ -1,3 +1,5 @@
 NAME,GENDER,DATASHEET,IMG_URL
-Peter Olsen,Female,"[( 'Java', 1.01, 'Steve Jobs', 10, 2), ( 'C++', 1.01, 'Steve Jobs', 20, 2), ( 'Java', 3.12, 'Elon Musk', 10, 12)]",img2
-Kurt Wonnegut,Male,"[( 'JavaScript', 1.62, 'Bill Gates', 30, 12), ( 'JavaScript', 1.01, 'Bill Gates', 20, 4), ( 'Java', 1.01, 'Steve Jobs', 20, 7)]",img3
+Kurt Wonnegut,Female,"[( 'JavaScript', 1.62, 'Elon Musk', 20, 7), ( 'Python', 1.62, 'Bill Gates', 10, 4), ( 'Java', 3.12, 'Elon Musk', 30, 0)]",img3
+Peter Olsen,Male,"[( 'Java', 1.62, 'Steve Jobs', 30, 0), ( 'C++', 1.01, 'Steve Jobs', 20, 0), ( 'C++', 1.62, 'Bill Gates', 30, 7)]",img1
+Peter Olsen,Female,"[( 'Java', 1.01, 'Elon Musk', 30, 10), ( 'Java', 1.01, 'Steve Jobs', 30, 10), ( 'JavaScript', 1.62, 'Bill Gates', 10, 10)]",img2
+Kurt Wonnegut,Male,"[( 'JavaScript', 3.12, 'Elon Musk', 30, 7), ( 'C++', 3.12, 'Steve Jobs', 20, 4), ( 'Java', 3.12, 'Bill Gates', 10, 0)]",img2
